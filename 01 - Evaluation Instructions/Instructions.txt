@@ -1,0 +1,28 @@
+Xanda HTML Evaluation
+=====================
+
+We would like you to create a functioning HTML page so it matches the Home Page design layout JPEG contained within 
+the Evaluation Instructions directory. 
+
+All assets have already been cut-up and provided in the various Assets directories.
+ 
+We want to see how you build the page, so please do not use any CSS frameworks such as Bootstrap or Foundation.
+ 
+Please use HTML5 (W3C compliant), SASS and JavaScript. If you are not comfortable with SASS then CSS is fine.
+ 
+The page should function and resemble the creative in the following web browsers:
+•         Chrome (latest)
+•         Firefox (latest)
+•         Safari (latest)
+•         IE 9+
+ 
+Please ensure your code is neat and tidy and any unused code should be removed. 
+
+Please spend no longer than 8 hours on this evaluation, and return all source code for evaluation in the Returned
+Evaluation Code directory within the ZIP file to enquiries@xanda.net
+
+Further instructions on the returned code requirements can be found in the Returned Evaluation Code directory.
+ 
+Good luck with the trial. We are looking forward to seeing your work.
+
+Should you have any questions or require further guidance, please contact Talib at talib@xanda.net.
